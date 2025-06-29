@@ -1,5 +1,3 @@
-## Project Phases & Final Report
-
 This folder named **"Documents"** consists of documents of all **Five Phases** and the **Final Report**. The Five Phases are:
 
 1. Ideation Phase  
